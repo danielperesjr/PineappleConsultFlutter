@@ -3,7 +3,7 @@
 
 Projeto para estudo do framework Flutter e da linguagem Dart.
 
-Possui quatro telas navegáveis que são acessadas a partir da tela principal. Cada uma das telas possui conteúdos distintos sobre a empresa fictícia.
+Possui quatro telas navegáveis que são acessadas a partir da tela principal. Cada uma das telas possuem conteúdos distintos sobre a empresa fictícia.
 
 Conteúdo estudado e implementado neste App: base scaffold, componentes de interface, stateful widget, gesture detector e navegação entre telas.
 ## Screen Recording Android:
