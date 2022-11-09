@@ -1,16 +1,24 @@
-# pineapple_consultoria
+# Pineapple Consultoria
+> App de uma empresa fictícia utilizando o framework Flutter.
 
-A new Flutter project.
+Projeto para estudo do framework Flutter e da linguagem Dart.
 
-## Getting Started
+Possui quatro telas navegáveis que são acessadas a partir da tela principal. Cada uma das telas possui conteúdos distintos sobre a empresa fictícia.
 
-This project is a starting point for a Flutter application.
+Conteúdo estudado e implementado neste App: base scaffold, componentes de interface, stateful widget, gesture detector e navegação entre telas.
+## Screen Recording Android:
 
-A few resources to get you started if this is your first Flutter project:
+<img src="recording-android.gif" width="320" height="658"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screen Recording iOS:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="recording-ios.gif" width="320" height="693"/>
+
+## Histórico de Atualizações:  
+
+* 20221108:
+    * Versão inicial.
+
+## Links:
+
+[https://github.com/danielperesjr/pineapple-consult-flutter](https://github.com/danielperesjr/pineapple-consult-flutter)
